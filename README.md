@@ -50,21 +50,7 @@ It demonstrates the implementation of a responsive web interface using modern fr
 
 ---
 
-### Tablet View
 
-<p align="center">
-<img src="./screenshots/tablet.png" width="75%">
-</p>
-
----
-
-### Mobile View
-
-<p align="center">
-<img src="./screenshots/mobile.png" width="40%">
-</p>
-
----
 
 ## 🛠 Tech Stack
 
@@ -89,11 +75,6 @@ Assignment-01/
 │
 ├── screenshots/
 │   ├── desktop.png
-│   ├── tablet.png
-│   └── mobile.png
-│
-├── assets/
-│   └── banner.png
 │
 └── README.md
 ```
