@@ -1,8 +1,6 @@
 # Assignment 01 – Responsive Landing Page
 
-<p align="center">
-  <img src="./assets/banner.png" alt="Project Banner" width="100%">
-</p>
+
 
 <p align="center">
 
@@ -38,7 +36,7 @@ It demonstrates the implementation of a responsive web interface using modern fr
 ## 🚀 Live Demo
 
 🔗 **Demo:**
-https://batman1103.github.io/bank_project/
+[https://batman1103.github.io/bank_project/](https://batman1103.github.io/bank_website/)
 
 ---
 
