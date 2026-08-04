@@ -1,4 +1,4 @@
-# Assignment 01 – Responsive Landing Page
+# Assignment 01
 
 
 
