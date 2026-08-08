@@ -45,7 +45,7 @@ It demonstrates the implementation of a responsive web interface using modern fr
 ### Desktop View
 
 <p align="center">
-<img src="destop.png" width="90%">
+<img src="Assignment-01/screenshots/destop.png" width="90%">
 </p>
 
 ---
